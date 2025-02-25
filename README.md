@@ -1,11 +1,11 @@
 # PRS
 Patient Registration System
 
-#Usage
+## Usage
 python3 -m venv venv (Optional)
 
-# Install required packages
+### Install required packages
 pip install -r requirements.txt
 
-#Run the server
+### Run the server
 python3 manage.py runserver
